@@ -13,6 +13,6 @@ Questions:<br>
 7.Depict waterfall graph for content duration and no. of reviews for the category price<br>
 8.Depict course id and no. of lectures to predict the price<br>
 9.Visualize the no. of lectures and no of subscribers in terms of content duration<br>
-10.Visualize relationship between no. of reviews and content duration<br>
+10.Visualize relationship between no. of reviews and content duration<br><br>
 
 Thank You :)
